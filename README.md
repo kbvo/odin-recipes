@@ -1,0 +1,1 @@
+Made website storing random recipes using html for practice (odin project)
